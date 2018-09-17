@@ -3,5 +3,6 @@
   "description": "",
   "type": "library",
   "keywords": [],
+  "prefer-stable": true,
   "license": "MIT"
 }
